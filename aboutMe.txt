@@ -1,2 +1,1 @@
-Name: Ewuin
-favorite movie: James Bond
+favorite book: Heart of Darkness
